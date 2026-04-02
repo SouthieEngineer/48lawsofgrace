@@ -44,8 +44,8 @@ const Navbar = () => {
         >
           <img src={web} alt="menu" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            Copernicus &nbsp;
-            <span className="sm:block hidden">Technologies</span>
+            Gerald &nbsp;
+            <span className="sm:block hidden">Ferguson</span>
           </p>
         </Link>
 
