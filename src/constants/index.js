@@ -124,7 +124,7 @@ const experiences = [
   {
     title: "Founder & Developer",
     company_name: "KodiakCoding.com",
-    icon: git,
+    icon: mongodb,
     iconBg: "#383E56",
     date: "Apr 2022 - Present",
     points: [
