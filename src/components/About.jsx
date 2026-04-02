@@ -60,10 +60,11 @@ const About = () => {
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Systematic Overview</p>
         <h2 className="text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]">
+          48 Laws Of {" "}
           <span style={{ fontWeight: "bold", color: "#00ff00" }}>
-            MERN
+            Grace
           </span>
-          ingful development
+          
         </h2>
       </motion.div>
 
@@ -71,9 +72,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        The MERN stack is a powerful technology combo for building fast and efficient web apps, using MongoDB for data storage,
-        Express.js for server-side processing, React.js for UI building, and Node.js for server-side runtime management.
-        This enables businesses to create scalable, responsive web apps that handle complex data and interactions, improving user experience and satisfaction.
+        The "48 Laws of Grace" presents a comprehensive guide to embracing grace, compassion, 
+        and empathy in our interactions and challenges. By practicing these laws, 
+        individuals can learn to extend grace not only to themselves but also to those 
+        around them.
       </motion.p>
 
       <div
