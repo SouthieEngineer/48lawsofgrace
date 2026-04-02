@@ -122,81 +122,30 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Founder & Developer",
-    company_name: "KodiakCoding.com",
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
     icon: mongodb,
     iconBg: "#383E56",
     date: "Apr 2022 - Present",
     points: [
-      "Freelance technology consultant specializing in MERN stack, Three.js, DocuSign, and custom Google Apps Script plugins.",
-      "Collaborated with multiple clients to develop tailored data models and strategies.",
-      "Ensured accurate data modeling for effective decision-making and streamlined processes.",
-      "Optimized development projects through code reviews and valuable feedback.",
-      "Built robust and scalable applications using MERN stack technologies.",
-      "Created immersive 3D visualizations with Three.js.",
-      "Integrated DocuSign for secure document signing processes.",
-      "Developed custom Google Apps Script plugins for task automation and enhanced productivity.",
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
     ]
     
   },
   {
-    title: "Technology Consultant",
-    company_name: "Draper Asset Mangement",
-    icon: html,
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
     iconBg: "#383E56",
-    date: "March 2020 - Present",
+    date: "Apr 2022 - Present",
     points: [
-      "Collaborated with team members, including Portfolio Managers and research interns, to develop data-rich models and strategies.",
-      "Participated in code reviews and provided valuable feedback to enhance the quality and efficiency of the development process.",
-      "Utilized MERN (MongoDB, Express.js, React.js, Node.js) technologies to build robust and scalable applications for data-driven solutions.",
-    ],
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
     
   },
-  {
-    title: "Receving Team-Lead",
-    company_name: "Whole Foods Market",
-    icon: wholefoods,
-    iconBg: "#E6DEDD",
-    date: "Jan 2018 - Feb 2022",
-    points: [
-      "Created VBA software to automate vendor communication regarding late invoices, resulting in improved efficiency and timely resolution of payment discrepancies. The program was successfully implemented at the regional level, further streamlining the invoice management process.",
-      "Managed the reception and distribution of millions of dollars worth of inventory annually at Whole Foods Market/Amazon, ensuring accuracy and time efficiency.",
-  "Maintained high standards in safety, cleanliness, and efficiency in the receiving team, contributing to the store's top percentile ranking across the region and country.",
-  "Verified and preserved the integrity of purchase orders via inventory management programs, demonstrating keen oversight and attention to detail.",
-  "Built and maintained professional relationships with vendors, effectively managing communication to enhance productivity, mitigate issues, and streamline the delivery process.",
-    ],
-    
-  },
-  {
-    title: "Wix Developer",
-    company_name: "Freelancer",
-    icon: wix,
-    iconBg: "#383E56",
-    date: "Sep 2016 - Dec 2017",
-    points: [
-      "Developed and customized Wix websites for clients, delivering high-quality web solutions tailored to their specific needs and requirements.",
-      "Collaborated closely with clients to understand their business objectives and translate them into visually appealing and functional website designs.",
-      "Implemented SEO best practices to optimize website visibility and improve search engine rankings, driving organic traffic and increasing online presence.",
-      "Provided ongoing website maintenance and updates, ensuring seamless functionality and addressing any issues or bugs that arose.",
-      "Managed multiple client projects simultaneously, effectively prioritizing tasks and meeting project deadlines within budget constraints.",
-    ],
-    
-  },
-  {
-    title: "Junior SWE",
-    company_name: "iCitizen.com",
-    icon: ic,
-    iconBg: "#E6DEDD",
-    date: "Aug 2015 - Sep 2016",
-    points: [
-      "Contributed to the development of the iCitizen mobile application aimed at transforming civic communication, fostering community connection, and promoting meaningful change.",
-      "Analyzed and reviewed the US Census and State Voter Records for information critical to the application's functionality and relevance.",
-      "Performed data cleaning and conversion, transforming TSV and CSV datasets into JSON format.",
-      "Managed the creation and maintenance of large MongoDB databases, ensuring their integrity.",
-      "Handled sensitive and personal records of US citizens, ensuring privacy and data protection."
-    ],
-    
-  },
+  
 ];
 
 const testimonials = [
