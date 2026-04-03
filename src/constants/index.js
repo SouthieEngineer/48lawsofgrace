@@ -145,6 +145,476 @@ const experiences = [
     ]
     
   },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+    {
+    title: "Embrace vulnerability and share your heart openly.",
+    company_name: "Mark Rathjen",
+    icon: mongodb,
+    iconBg: "#383E56",
+    date: "Apr 2022 - Present",
+    points: [
+      "Thesis Cinema: Moneyball",
+      "Reverse Cinema: SE7EN",
+    ]
+    
+  },
+  
+  
   
 ];
 
