@@ -682,9 +682,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "This Portfolio",
+    name: "48 Laws of Grace",
     description:
-      "An immersive web portfolio showcasing creative works, achievements, and expertise, captivating audiences with compelling visuals and engaging storytelling.",
+      "48 Ways to live a better life!",
     tags: [
       {
         name: "react",
@@ -703,7 +703,7 @@ const projects = [
     source_code_link: "https://kodiakcoding.com",
   },
   {
-    name: "CLI & GPT-4 App",
+    name: "CLI & GPT-5 App",
     description:
     "Unleashing the potential of Material-UI DataGrid and Term-x JavaScript libraries, I created a responsive and interactive web app. Powered by the GPT-4 API, it offers prompt and intelligent responses, revolutionizing user engagement with information.",
     tags: [
