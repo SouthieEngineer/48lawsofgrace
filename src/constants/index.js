@@ -48,7 +48,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Honesty",
+    title: "Vulnerability",
     icon: web,
   },
   {
@@ -56,13 +56,10 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Willingness",
+    title: "Stewardship",
     icon: backend,
   },
-  {
-    title: "Spirituality",
-    icon: creator,
-  },
+
 ];
 
 const technologies = [
